@@ -21,6 +21,12 @@ Output is sent to **STDOUT**. Attached `run.bat` will redirect the stream to a f
 - Node.js 0.12.5
 - Windows 7
 
+## License
+GNU GPL v2
+
+## Note
+This app or code is a demo and is not meant to be fully featured.
+
 
 ## Example output
 
